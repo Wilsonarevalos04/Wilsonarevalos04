@@ -7,10 +7,10 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/TU-USUARIO-GITHUB">
+  <a href="https://github.com/Wilsonarevalos04">
     <img src="https://img.shields.io/badge/GitHub-Perfil-282828?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/wilson-arevalos-52a5152a8/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
